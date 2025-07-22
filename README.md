@@ -26,16 +26,21 @@ Chatty/
 ├── .gitignore
 ├── README.md
 
-📂 Installation & Setup Instructions:
+📂 Installation & Setup Instructions:  
+
 1️⃣ Clone the Repository
+
 git clone https://github.com/Sourav-Sethi/Chatty.git
 cd Chatty
+
 2️⃣ Install Client Dependencies
 cd client
 npm install
+
 3️⃣ Install Server Dependencies
 cd ../server
 npm install
+
 4️⃣ Run the Project
 Start Frontend (Vite)
 cd client
