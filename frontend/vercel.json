@@ -1,0 +1,6 @@
+{
+    "rewrites": [
+      { "source": "/api/:path*", "destination": "mongodb://localhost:27017/CHATAPP" }
+    ]
+  }
+  
